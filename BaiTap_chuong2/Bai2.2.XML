@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="SV001">
+        <name>Nguyễn Văn A</name>
+        <year>2003</year>
+        <class>CTK46A</class>
+        <gender>Nam</gender>
+    </student>
+    <student id="SV002">
+        <name>Nguyễn Thị C</name>
+        <year>2004</year>
+        <class>CTK46B</class>
+        <gender>Nữ</gender>
+    </student>
+</students>
